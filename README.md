@@ -8,3 +8,4 @@ Sword Art Online
 Rising of the Shield Hero 
 Saiki
 HunterxHunter
+Food Wars
