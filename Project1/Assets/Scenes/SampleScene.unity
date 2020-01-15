@@ -144,6 +144,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: abb1fe5712625a04fad7736f43227342, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  nameString: Deku is all
+  intNum: 0
+  floatNum: 0
+  gameObj: {fileID: 534669902}
 --- !u!65 &72770580
 BoxCollider:
   m_ObjectHideFlags: 0
