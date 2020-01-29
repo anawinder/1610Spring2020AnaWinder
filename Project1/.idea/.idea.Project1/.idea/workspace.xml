@@ -12,8 +12,10 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/NewClass.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MouseEvents.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/TriggerEvents.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Homework.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/TEvent.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Newer.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -23,6 +25,8 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Newer.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Homework.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/TriggerEvents.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TEvent.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MouseEvents.cs" />
       </list>
     </option>
   </component>
@@ -79,7 +83,8 @@
       <workItem from="1579108155648" duration="2616000" />
       <workItem from="1579714308882" duration="2525000" />
       <workItem from="1579734484780" duration="713000" />
-      <workItem from="1580144321627" duration="3316000" />
+      <workItem from="1580144321627" duration="3481000" />
+      <workItem from="1580317782023" duration="3367000" />
     </task>
     <servers />
   </component>
