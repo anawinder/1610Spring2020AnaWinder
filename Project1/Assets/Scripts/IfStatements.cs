@@ -13,17 +13,17 @@ public class IfStatements : MonoBehaviour
     {
         if (a+b != c)
         {
-            print("That is true.");
+            //print("That is true.");
         }
 
         if (password != "OU812")
         {
-            print("That is the correct password");
+            //print("That is the correct password");
         }
 
         if (!canRun)
         {
-            print("We can't run.");
+            //print("We can't run.");
         }
     }
 

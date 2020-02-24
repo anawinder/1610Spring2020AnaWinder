@@ -4,15 +4,15 @@ using UnityEngine.UI;
 [RequireComponent(typeof(Image))]
 public class ImageBehaviour : MonoBehaviour
 {
-
-    private Image Imageobj;
-    void Start()
+    private Image imageObj;
+    public FloatData dataObj;
+    private void Start()
     {
-        Imageobj = GetComponent<Image>();
+         imageObj = GetComponent<Image>();
     }
 
     void Update()
     {
-        
+        imageObj.fillAmount = dataObj.value;
     }
 }

@@ -26,6 +26,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/LightController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CharacterMovement.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/TextBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -33,18 +34,19 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/NewClass.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Newer.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Homework.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/TriggerEvents.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/TEvent.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/MouseEvents.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/IfStatements.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/RigidBodyForces.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CharacterMovement.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/LightController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CameraController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/SpriteController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/IfStatements.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/LightController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TriggerEvents.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ImageBehaviour.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/IntData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/FloatData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TextBehaviour.cs" />
       </list>
     </option>
   </component>
@@ -109,6 +111,7 @@
       <workItem from="1581528064094" duration="3409000" />
       <workItem from="1582132472190" duration="1744000" />
       <workItem from="1582134931538" duration="1258000" />
+      <workItem from="1582562799505" duration="4962000" />
     </task>
     <servers />
   </component>
